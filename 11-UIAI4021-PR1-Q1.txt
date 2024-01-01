@@ -1,0 +1,27 @@
+dijkstra Algorithm
+Eecution Time: 0.410198 s
+-----------------------------
+Flight #1
+from :Tehran _ Imam Khomeini International Airport , Iran
+to :Istanbul _ Atatürk International Airport , Turkey
+Duration: 2041 km
+Time: 4 h
+Price: 239 $
+-----------------------------
+Flight #2
+from :Istanbul _ Atatürk International Airport , Turkey
+to :New York _ John F Kennedy International Airport , United States
+Duration: 8052 km
+Time: 11 h
+Price: 837 $
+-----------------------------
+Flight #3
+from :New York _ John F Kennedy International Airport , United States
+to :Raleigh-durham _ Raleigh Durham International Airport , United States
+Duration: 687 km
+Time: 2 h
+Price: 132 $
+-----------------------------
+Total Price: 1207 $
+Total Duration: 10780 km
+Total Time: 15 h

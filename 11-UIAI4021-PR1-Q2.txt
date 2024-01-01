@@ -1,0 +1,6 @@
+PRICE: -56 * departure_time +  2397 * stops + 414 * arrival_time + 21200 * class + 548 * duration + -1771 * days_left + 20899
+Training Time: 6.000000 s
+MSE : 51033925
+RMSE : 7143
+MAE : 4607
+R2: : 0.900690
